@@ -3,15 +3,15 @@
 This repository contains a series of workshops that you can run using Google Colab. 
 
 ## Running the Workshops
+These are the ones that are thoroughtly worked through and ready for use:
+* https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/GCP_billing/visual_captioning_QA.ipynb
+* https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/OpenAI_key/intro_prompt_design.ipynb
 
-The workshops can be accessed and run directly on Google Colab, but you need keys to access the APIs. These can be free or paid.
+The workshops can be accessed and run directly on Google Colab, but you need keys to access the APIs. These can be free or paid. Workshops are sorted based on what key is needed.
 - Huggingface provides smaller models for free. Just requires signup for use.
 - OpenAI requires billing set up for API usage. Costs 0.002 USD per 1000 token for GPT-3.5-turbo.
 - GCP requires a billng account in Google Cloud Platform, a service account and Vertex AI enabled. Approximately same price as OpenAI for usage.
 
-Google colab can be opened by adding "tocolab" after github in the URL like so:
-* https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/GCP_billing/visual_captioning_QA.ipynb
-* https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/intro_prompt_design.ipynb
 ## Workshop Contents
 
 These workshops are based on the notebooks provided by Google Cloud Platform's Generative AI and Huggingface's Transformers. 
