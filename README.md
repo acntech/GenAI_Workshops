@@ -10,8 +10,8 @@ The workshops can be accessed and run directly on Google Colab, but you need key
 - GCP requires a billng account in Google Cloud Platform, a service account and Vertex AI enabled. Approximately same price as OpenAI for usage.
 
 Google colab can be opened by adding "tocolab" after github in the URL like so:
+* https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/GCP_billing/visual_captioning_QA.ipynb
 * https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/intro_prompt_design.ipynb
-* [Visual Captioning Notebook](https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/GCP_billing/visual_captioning.ipynb)
 ## Workshop Contents
 
 These workshops are based on the notebooks provided by Google Cloud Platform's Generative AI and Huggingface's Transformers. 
