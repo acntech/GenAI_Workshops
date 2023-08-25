@@ -6,6 +6,7 @@ This repository contains a series of workshops that you can run using Google Col
 These are the ones that are thoroughtly worked through and ready for use:
 * https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/GCP_billing/visual_captioning_QA.ipynb
 * https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/OpenAI_key/intro_prompt_design.ipynb
+* https://githubtocolab.com/acntech/GenAI_Workshops/blob/main/huggingface/02_how_to_generate.ipynb
 
 The workshops can be accessed and run directly on Google Colab, but you need keys to access the APIs. These can be free or paid. Workshops are sorted based on what key is needed.
 - Huggingface provides smaller models for free. Just requires signup for use.
